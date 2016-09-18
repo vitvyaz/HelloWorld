@@ -17,6 +17,7 @@ public class HelloWorld {
     HelloWorld(){
         LOG.trace("Constructor ua.vitvyaz.helloworld.HelloWorld()");
         LOG.trace("read data from file helloworld.properties");
+
         res = ResourceBundle.getBundle("helloworld");
     }
 
