@@ -9,6 +9,7 @@ import java.util.Locale;
 import static org.junit.Assert.assertEquals;
 
 /**
+ * Tests class HelloWorld with English locale
  * Created by Vitalii Viazovoi on 18.09.2016.
  */
 public class HelloWorldTestEnglish {
