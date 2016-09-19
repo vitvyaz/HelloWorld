@@ -7,6 +7,10 @@ import java.time.LocalTime;
 import java.util.ResourceBundle;
 
 /**
+ * Simple concole application.
+ * Says Good day, World! or Good evening, World! etc.
+ * Uses Log4j 2 for logging and properties for localisation
+ *
  * Created by vitvyaz on 12.09.2016.
  */
 public class HelloWorld {
